@@ -14,7 +14,6 @@ How to Read It Fast: Think of it like a 3-part description:
 	- **0.1–0.2** = pastel, soft
 	- **0.2–0.4+** = saturated, strong
 3. **h (Hue angle)**
-          ![image](oklch_hue_wheel.png)
 	- **0° = Red**
 	- **90° = Green**
 	- **180° = Cyan**
